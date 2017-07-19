@@ -1,0 +1,17 @@
+.articles-list {
+  list-style-type: none;
+  margin: 0;
+}
+
+.article {
+  padding: 0.2rem 0.5rem;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.article-title {
+    font-weight: normal;
+}
+
+.article-subtitle {
+    font-weight: normal;
+}
